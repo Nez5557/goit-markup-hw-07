@@ -3,8 +3,8 @@
 }
 
 .hero {
-    background-color: var(--primary-background-color);
-    color: var(--white-color);
+    background-color: $primary-background-color;
+    color: $white-color;
     background-image: linear-gradient(
             to right,
             rgba(47, 48, 58, 0.4),
@@ -34,8 +34,8 @@
 
 .order-service {
     display: inline-block;
-    background-color: var(--accent-color);
-    color: var(--white-color);
+    background-color: $accent-color;
+    color: $white-color;
     font-family: "Roboto", sans-serif;
     font-weight: 700;
     font-size: 16px;
