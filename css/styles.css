@@ -16,9 +16,9 @@
     --secondary-background-color: #f5f4fa;
     --black-color: #000000;
     --button-color: #f5f4fa;
-} */
-
-/* *,
+}
+/* 
+*,
 ::after,
 ::before {
     box-sizing: border-box;
@@ -51,20 +51,21 @@ svg {
 
 nav {
     display: flex;
-    align-items: center; */
-} */
+    align-items: center;
+}
 
-/* .container {
+
+.container {
     width: 1200px;
     padding-left: 15px;
     padding-right: 15px;
     margin: 0 auto;
     overflow: hidden;
     justify-content: space-between;
-    /* outline: 1px solid red; */
-} */
+    outline: 1px solid red;
+} 
 
-/* .page-header {
+.page-header {
     display: flex;
     justify-content: center;
     list-style: none;
@@ -74,7 +75,7 @@ nav {
 }
 .contacts {
     margin-left: auto;
-}
+} */
 
 /* Header */
 
@@ -432,7 +433,7 @@ opacity: 1;
     display: flex;
     align-items: center;
     justify-content: center;
-    /* outline: 1px solid tomato; */
+    /* outline: 1px solid tomato;
 }
 /* 
 .clients-item {
@@ -968,4 +969,4 @@ button {
     line-height: 1.88;
     letter-spacing: 0, 03em;
     margin: 0;
-} */
+}
