@@ -42,7 +42,6 @@ nav {
   margin: 0 auto;
   overflow: hidden;
   justify-content: space-between;
-  /* outline: 1px solid red; */
 }
 
 /* Цвет основного текста #757575; */
@@ -230,6 +229,7 @@ opacity: 1;
 }
 
 .hero-title {
+  font-family: "Roboto", sans-serif;
   margin-bottom: 54px;
 }
 
@@ -254,6 +254,7 @@ opacity: 1;
 
 /* Описание */
 .our-work {
+  font-family: "Roboto", sans-serif;
   color: #212121;
   font-weight: 700;
   font-size: 14px;
@@ -262,6 +263,7 @@ opacity: 1;
 }
 
 .job-description {
+  font-family: "Roboto", sans-serif;
   color: #757575;
   font-size: 14px;
   line-height: 1.71;
@@ -277,6 +279,7 @@ opacity: 1;
 }
 
 .description {
+  font-family: "Roboto", sans-serif;
   margin-top: 0px;
   margin-bottom: 50px;
   color: #212121;
@@ -354,12 +357,14 @@ opacity: 1;
 }
 
 .our-team {
+  font-family: "Roboto", sans-serif;
   color: #212121;
   font-weight: 500;
   margin-top: 30px;
 }
 
 .profession {
+  font-family: "Roboto", sans-serif;
   background-color: #fff;
   color: #757575;
   font-weight: 400;
@@ -475,6 +480,7 @@ opacity: 1;
 }
 
 .address {
+  font-family: "Roboto", sans-serif;
   color: #fff;
   font-weight: 400;
   font-style: normal;
@@ -531,6 +537,7 @@ opacity: 1;
 }
 
 .footer-form-title {
+  font-family: "Roboto", sans-serif;
   margin-top: 0;
   margin-bottom: 20px;
   color: #fff;
