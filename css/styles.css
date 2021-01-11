@@ -7,7 +7,7 @@
 /* Цвет фона команды #F5F4FA; */
 /* Цвет фона подвала #2F303A */
 
-:root {
+/* :root {
     --primary-text-color: #757575;
     --title-text-color: #212121;
     --accent-color: #2196f3;
@@ -16,9 +16,9 @@
     --secondary-background-color: #f5f4fa;
     --black-color: #000000;
     --button-color: #f5f4fa;
-}
+} */
 
-*,
+/* *,
 ::after,
 ::before {
     box-sizing: border-box;
@@ -29,7 +29,7 @@ body {
     letter-spacing: 0.03em;
     font-family: "Roboto", sans-serif;
     /* outline: 1px solid red; */
-}
+/* }
 
 a {
     display: block;
@@ -51,10 +51,10 @@ svg {
 
 nav {
     display: flex;
-    align-items: center;
-}
+    align-items: center; */
+} */
 
-.container {
+/* .container {
     width: 1200px;
     padding-left: 15px;
     padding-right: 15px;
@@ -62,8 +62,9 @@ nav {
     overflow: hidden;
     justify-content: space-between;
     /* outline: 1px solid red; */
-}
-.page-header {
+} */
+
+/* .page-header {
     display: flex;
     justify-content: center;
     list-style: none;
@@ -77,14 +78,14 @@ nav {
 
 /* Header */
 
-.header-main {
+/* .header-main {
     display: flex;
     align-items: center;
 }
 
 /* Logo WebStudio */
 
-.logo {
+/* .logo {
     color: var(--accent-color);
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -99,10 +100,10 @@ nav {
     line-height: 1.19;
     margin-right: 85px;
     transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-}
+} */
 
 /* Студио-портфолио-контакты-e-mail-телефон */
-
+/* 
 .site-nav,
 .contacts-list {
     display: flex;
@@ -171,13 +172,13 @@ nav {
     border-radius: 15px;
     background-color: #2196f3;
     transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-}
+} */
 
 /* .link:hover::after,
 .link:focus::after {
 opacity: 1;
 } */
-
+/* 
 .link:hover,
 .link:focus,
 .social-links:hover,
@@ -210,11 +211,11 @@ opacity: 1;
     margin-right: 10px;
     fill: currentColor;
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-}
+} */ */ */
 
 /* Hero */
 
-.hero h1 {
+/* .hero h1 {
     font-size: 44px;
 }
 
@@ -265,11 +266,11 @@ opacity: 1;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
     border: 0;
     border-radius: 4px;
-}
+} */
 
 /* Описание */
 
-.our-work {
+/* .our-work {
     color: var(--title-text-color);
     font-weight: 700;
     font-size: 14px;
@@ -335,10 +336,10 @@ opacity: 1;
     height: 120px;
     border-radius: 4px;
     margin-bottom: 30px;
-}
+} */
 
 /* Наша команда */
-
+/* 
 .team {
     padding-top: 94px;
     padding-bottom: 94px;
@@ -416,11 +417,11 @@ opacity: 1;
     fill: var(--white-color);
     background-color: #2196f3;
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-}
+} */
 
 /* Постоянные клиенты */
 
-.regular-customers {
+/* .regular-customers {
     background-color: var(--white-color);
     padding-top: 94px;
     padding-bottom: 94px;
@@ -433,7 +434,7 @@ opacity: 1;
     justify-content: center;
     /* outline: 1px solid tomato; */
 }
-
+/* 
 .clients-item {
     width: 170px;
     list-style: none;
@@ -464,10 +465,10 @@ opacity: 1;
     color: #2196f3;
     border: 1px solid #2196f3;
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-}
+} */ */
 
 /* FOOTER */
-
+/* 
 .basement {
     color: var(--primary-background-color);
     background-color: var(--primary-background-color);
@@ -598,9 +599,9 @@ opacity: 1;
 .footer-form-icon {
     color: var(--white-color);
     margin-left: 10px;
-}
+} */
 
-.backdrop.is-hidden {
+/* .backdrop.is-hidden {
     opacity: 0;
     pointer-events: none;
 }
@@ -805,11 +806,11 @@ opacity: 1;
 .icon-close:focus {
     fill: var(--accent-color);
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-}
+} */
 
 /* Портфолио */
 
-.header-line {
+/* .header-line {
     border-bottom: 1px solid #ececec;
 }
 
@@ -967,4 +968,4 @@ button {
     line-height: 1.88;
     letter-spacing: 0, 03em;
     margin: 0;
-}
+} */
